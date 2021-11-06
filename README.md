@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="200" />
 </p>
 
 **Hello Im Monty404 Im Discord Developer And Website Designer & My Age 18 Years & And i have experience in these languages**
