@@ -22,7 +22,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![mangoDB](https://img.shields.io/badge/-mangoDB-000000?style=flat&logo=mangoDB)
 
 <div align="center">
 <p><a href="https://github.com/Monty4O4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monty4O4&amp;layout=compact" alt="Top Langs"></a></p></div> 
