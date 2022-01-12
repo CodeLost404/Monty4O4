@@ -2,7 +2,7 @@
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
 </p>
 
-**Hello Im __RaMa404__**
+**Hello Im __Monty404__**
 
 <h5 align="left"><b>❇️ Im Discord Developer</b></h3>
 <h5 align="left"><b>🧑🏻‍💻 and i'm doing code and developer for 3 hours a day</b></h3>
@@ -25,7 +25,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
 <div align="center">
-<p><a href="https://github.com/RaMaa404"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monty4O4&amp;layout=compact" alt="Top Langs"></a></p></div> 
+<p><a href="https://github.com/Monty4O4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monty4O4&amp;layout=compact" alt="Top Langs"></a></p></div> 
 
 <hr>
 <p align="center"> 
