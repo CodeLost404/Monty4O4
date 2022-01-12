@@ -2,6 +2,8 @@
   <img src="https://cdn.discordapp.com/avatars/754912714727358504/250246837da7b41f0e22e40527ed1565.png?size=2048" width="150" />
 </p>
 
+![dacord](https://discord.c99.nl/widget/theme-4/754912714727358504.png)
+
 **Hello Im __Monty404__**
 
 <h5 align="left"><b>❇️ Im Discord Developer</b></h3>
