@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
+  <img src="https://cdn.discordapp.com/avatars/754912714727358504/250246837da7b41f0e22e40527ed1565.png?size=2048" width="150" />
 </p>
 
 **Hello Im __Monty404__**
